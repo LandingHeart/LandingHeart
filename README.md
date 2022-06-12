@@ -1,5 +1,13 @@
 <h1> I'm Shinan Liu <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-
+- 🔭 I’m currently working on ...TBD
+- 🌱 I’m currently learning ...TBD
+- 👯 I’m looking to collaborate on ...TBD
+- 🤔 I’m looking for help with ...TBD
+- 💬 Ask me about ...TBD
+- 📫 How to reach me: ...TBD
+- 😄 Pronouns: ...TBD
+- ⚡ Fun fact: ...TBD
+- 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -14,26 +22,15 @@ const aboutMe = {
          css: ["Bootstrap", "Material UI"]
       },
       backEnd: {
-         js: ["Node", "Express", "Python", "Django"],
+         js: ["Node", "Express", "Python"],
          misc: ["VsCode", "Trello Board"]
       },
-      databases: ["MongoDB", "PostgreSQL"],
+      databases: ["MongoDB", "PostgreSQL", "Django"],
    },
    currentOccupation: ["Open for job opportunities"],
    challenge: "I'm working towards healthy, good physique",
 };
 ```
-<!--
-**LandingHeart/LandingHeart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
