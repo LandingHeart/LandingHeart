@@ -1,3 +1,5 @@
+<h1> I'm Shinan Liu <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -5,19 +7,17 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [JavaScript, Typescript, Python],
+   languages: [JavaScript, Python, Java],
    technologies: {
       frontEnd: {
-         js: ["React", "React Native"],
+         js: ["React", "React Native", "React Redux"],
          css: ["Bootstrap", "Material UI"]
       },
       backEnd: {
-         node: ["JavaScript", "Python"]
-         js: ["Node", "Express"],
-         misc: ["VsCode"]
+         js: ["Node", "Express", "Python", "Django"],
+         misc: ["VsCode", "Trello Board"]
       },
       databases: ["MongoDB", "PostgreSQL"],
-      mobile: ["Android", "IOS"]
    },
    currentOccupation: ["Open for job opportunities"],
    challenge: "I'm working towards healthy, good physique",
