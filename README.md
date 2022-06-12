@@ -1,4 +1,5 @@
 <h1> I'm Shinan Liu <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+
 - 🔭 I’m currently working on ...TBD
 - 🌱 I’m currently learning ...TBD
 - 👯 I’m looking to collaborate on ...TBD
@@ -7,7 +8,8 @@
 - 📫 How to reach me: ...TBD
 - 😄 Pronouns: ...TBD
 - ⚡ Fun fact: ...TBD
-- 
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
