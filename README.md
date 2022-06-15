@@ -27,7 +27,8 @@ const aboutMe = {
          js: ["Node", "Express", "Python"],
          misc: ["VsCode", "Trello Board"]
       },
-      databases: ["MongoDB", "PostgreSQL", "Django"],
+      databases: ["MongoDB", "PostgreSQL"],
+      python_web_framework: ["Django"],
    },
    currentOccupation: ["Open for job opportunities"],
    challenge: "I'm working towards healthy, good physique",
