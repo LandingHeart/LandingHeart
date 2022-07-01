@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...TBD
 - ⚡ Fun fact: ...TBD
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landingheart)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landingheart)](https://github.com/LandingHeart/LandingHeart)
 
 
 <div id="header" align="center">
