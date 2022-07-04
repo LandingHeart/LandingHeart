@@ -9,20 +9,20 @@ const aboutMe = {
    pronouns: "he" | "him",
    languages: [JavaScript, TypeScript],
    technologies: {
-      frontEnd: {
-         Proficient: ["React", "React Redux","Redux Toolkit","Context API", "MUI", "Jest", "React Testing Library"],
+      frontend: {
+         proficient: ["React", "React Redux", "HTML", "CSS", "Redux Toolkit", "Context API", "MUI", "Jest", "React Testing Library"],
+         framework: ["Next js"]
       },
-      backEnd: {
-         Knowledgeable: ["Node js", "Express js", "Python"],
-         python_web_framework: ["Django"],
-         databases: ["PostgreSQL"],
+      backend: {
+         knowledgeable: ["Node js", "Express js", "Python", "Django", "Sequelize", "SQL"]
+         databases: ["PostgreSQL"]
       }
+      versionControl: ["Git"],
+      misc: ["VsCode", "Postman", "Trello board", "Kanban board", "Postico"]
    },
-   currentOccupation: ["Open for job opportunities"],
-   challenge: "I'm working towards healthy, good physique",
 };
 ```
 
 
 
-<p> Last Edited on: 07/04/2022 </p>
+<p> Last Edited on: 07/04 </p>
