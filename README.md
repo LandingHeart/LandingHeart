@@ -3,7 +3,6 @@
 
 [LiuShinan](https://github.com/LandingHeart)
 
-Last Edited on: 05/08/2021
 
 ```javascript
 const aboutMe = {
@@ -11,15 +10,13 @@ const aboutMe = {
    languages: [JavaScript, TypeScript],
    technologies: {
       frontEnd: {
-         js: ["React", "React Native", "React Redux"],
-         css: ["Bootstrap", "Material UI"]
+         Proficient: ["React", "React Redux","Redux Toolkit","Context API", "MUI", "Jest", "React Testing Library"],
       },
       backEnd: {
-         js: ["Node", "Express", "Python"],
-         misc: ["VsCode", "Trello Board"]
-      },
-      databases: ["MongoDB", "PostgreSQL"],
-      python_web_framework: ["Django"],
+         Knowledgeable: ["Node js", "Express js", "Python"],
+         python_web_framework: ["Django"],
+         databases: ["PostgreSQL"],
+      }
    },
    currentOccupation: ["Open for job opportunities"],
    challenge: "I'm working towards healthy, good physique",
@@ -28,3 +25,4 @@ const aboutMe = {
 
 
 
+<p> Last Edited on: 07/04/2022 </p>
