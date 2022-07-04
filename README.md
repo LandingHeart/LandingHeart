@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shinan <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">My Tech Stacks</h2>
 
 [LiuShinan](https://github.com/LandingHeart)
 
