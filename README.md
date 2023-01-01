@@ -7,22 +7,22 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   languages: [JavaScript, TypeScript],
+   languages: ["JavaScript", "Ruby", "TypeScript", "Python", "Java"],
    technologies: {
       frontend: {
-         proficient: ["React", "React Redux", "HTML", "CSS", "Redux Toolkit", "Context API", "MUI", "Jest", "React Testing Library"],
+         techs: ["React", "React Redux", "HTML", "CSS", "Redux Toolkit", "Context API", "MUI", "Jest", "React Testing Library"],
          framework: ["Next js"]
       },
       backend: {
-         knowledgeable: ["Node js", "Express js", "Python", "Django", "Sequelize", "SQL"]
+         techs: ["Node js", "Express js", "Python", "Django", "Sequelize", "SQL", "Ruby On Rails"]
          databases: ["PostgreSQL"]
       }
       versionControl: ["Git"],
-      misc: ["VsCode", "Postman", "Trello board", "Kanban board", "Postico"]
+      misc: ["VsCode", "Postman", "Trello board", "Kanban board", "Postico", "Jira", "Confluence"]
    },
 };
 ```
 
 
 
-<p> Last Edited on: 07/04 </p>
+<p> Last Edited on: 01/01/2023 </p>
